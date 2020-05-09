@@ -270,6 +270,20 @@ header {
     border-bottom: 2px solid #e67e22;
 }
 
+/* Mobile Navi*/
+
+.mobile-nav-icon {
+    float: right;
+    margin-top: 30px;
+    display: none;
+    cursor: pointer;
+}
+
+.mobile-nav-icon i{
+    font-size: 200%;
+    color: #fff;
+}
+
 /* Sticky Navi*/
 .sticky {
     position: fixed;
